@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Equals GetHashCode IComparer Enum Indexer/1.0.0": {
+        "runtime": {
+          "Equals GetHashCode IComparer Enum Indexer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Equals GetHashCode IComparer Enum Indexer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
