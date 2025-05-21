@@ -1,5 +1,4 @@
-﻿
-namespace Equals_GetHashCode_IComparer_Enum_Indexer
+﻿namespace Equals_GetHashCode_IComparer_Enum_Indexer.Models
 {
     public class Person
     {

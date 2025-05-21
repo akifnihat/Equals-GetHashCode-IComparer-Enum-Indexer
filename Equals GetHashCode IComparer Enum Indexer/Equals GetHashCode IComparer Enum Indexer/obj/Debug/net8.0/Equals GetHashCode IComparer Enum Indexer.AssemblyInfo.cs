@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Equals GetHashCode IComparer Enum Indexer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+760c3645df6fdd7dd894a580ad7decb91d09b6f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Equals GetHashCode IComparer Enum Indexer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Equals GetHashCode IComparer Enum Indexer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

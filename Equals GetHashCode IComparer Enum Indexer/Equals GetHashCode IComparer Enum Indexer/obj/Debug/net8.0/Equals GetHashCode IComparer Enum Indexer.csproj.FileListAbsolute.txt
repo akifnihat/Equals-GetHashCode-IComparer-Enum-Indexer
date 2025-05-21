@@ -12,3 +12,4 @@ C:\Users\HP\Desktop\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode
 C:\Users\HP\Desktop\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode IComparer Enum Indexer\obj\Debug\net8.0\Equals GetHashCode IComparer Enum Indexer.pdb
 C:\Users\HP\Desktop\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode IComparer Enum Indexer\obj\Debug\net8.0\Equals GetHashCode IComparer Enum Indexer.genruntimeconfig.cache
 C:\Users\HP\Desktop\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode IComparer Enum Indexer\obj\Debug\net8.0\ref\Equals GetHashCode IComparer Enum Indexer.dll
+C:\Users\HP\Desktop\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode IComparer Enum Indexer\Equals GetHashCode IComparer Enum Indexer\obj\Debug\net8.0\Equals GetHashCode IComparer Enum Indexer.sourcelink.json
